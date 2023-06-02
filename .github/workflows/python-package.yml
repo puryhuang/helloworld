@@ -1,0 +1,21 @@
+name: Run main.py
+
+on:
+  schedule:
+    - cron: '15 15 * * *'
+
+jobs:
+  run-script:
+    runs-on: windows-latest
+    steps:
+    - uses: actions/checkout@v2
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.x'
+    - name: Install dependencies
+      run: |
+        pip install -r requirements.txt
+        pip install requests
+    - name: Run script
+      run: python main.py
