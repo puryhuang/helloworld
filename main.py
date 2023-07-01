@@ -26,7 +26,7 @@ def main():
 		'Accept-Language': 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
 		'Connection': 'keep-alive',
 		'Content-Length': '0',
-		'Cookie': '_ga=GA1.1.1798402011.1684397932; uid=180049; email=delawinema4664@outlook.com; key=65f45aa059d9632108f37a22d7ddb95333369afadf470; ip=1c3a096d509deaa0f16fe4f860090e9a; expire_in=1686990099; _gcl_au=1.1.118167882.1684398102; crisp-client/session/a47ae3dd-53d8-4b15-afae-fb4577f7bcd0=session_46d193e7-955e-41d3-bad6-a9c12984d2f9; _ga_NC10VPE6SR=GS1.1.1685692917.7.1.1685693752.0.0.0',
+		'Cookie': '_ga=GA1.1.1798402011.1684397932; _gcl_au=1.1.118167882.1684398102; uid=180049; email=delawinema4664%40outlook.com; key=87d7e5c4c7daffa4f4e43a8434abb74864936c37468ac; ip=72ad5dbc060fa8667d52644bdf0918d8; expire_in=1719722474; crisp-client%2Fsession%2Fa47ae3dd-53d8-4b15-afae-fb4577f7bcd0=session_d3fa7c61-1720-4e3e-9769-08e0739542b0; _ga_NC10VPE6SR=GS1.1.1688189609.12.0.1688189609.0.0.0',
 		'Host': 'w1.v2free.top',
 		'Origin': 'https://w1.v2free.top/',
 		'Referer': 'https://w1.v2free.top/user',
